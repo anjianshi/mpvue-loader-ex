@@ -1,5 +1,5 @@
 {
-  "name": "mpvue-loader",
+  "name": "mpvue-loader-ex",
   "version": "1.2.0",
   "description": "mpvue single-file component loader for Webpack",
   "main": "index.js",
