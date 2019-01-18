@@ -1,6 +1,6 @@
-# mpvue-loader
+# mpvue-loader-ex
 
->Webpack loader for mpvue components
+>Webpack loader for mpvue components，支持支付宝小程序
 
 本仓库是 fork 自 [vue-loader](https://github.com/vuejs/vue-loader) 修改而来，主要为 webpack 打包 mpvue components 提供能力。
 
